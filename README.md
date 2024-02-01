@@ -2,10 +2,13 @@
 
  Redux starter project with both Redux and Redux Toolkit starter code. No frontend.
 
-- [Pure Redux](src/store-redux/)
-- [Redux Toolkit, a wrapper over Redux](src/store-redux-toolkit/)
+- [Redux](src/store-redux/)
+- [Redux Toolkit](src/store-redux-toolkit/)
+- [RTK Query](src/store)
 
-Run `npm start` to start the project and navigate to <http://localhost:3000/>
+> RTK Query is simply a wrapper over RTK (Redux ToolKit) which is, in turn, a wrapper over vanilla Redux
+
+Run `npm start` to start the project and navigate to <http://localhost:8001/>
 
 References (as of 02.02.2024):
 

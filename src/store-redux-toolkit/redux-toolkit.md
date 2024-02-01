@@ -1,4 +1,4 @@
-# redux-toolkit
+# Redux Toolkit
 
 - Redux-toolkit is a very popular and powerful library for simplifying the redux code and it is officially recommended by Redux.
 - Redux-toolkit has a lot of methods `configureStore`, `createAction`, `createReducer` and `createSlice`.

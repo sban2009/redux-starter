@@ -1,4 +1,4 @@
-# redux
+# Redux (Vanilla)
 
 - Application state (data) stored in a single place called Store.
 
